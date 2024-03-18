@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Level19Thug
+- 👀 I’m interested in c++, UE4 and UE5
+- 🌱 I’m currently learning C++, JS, and C#
+- 📫 My Discord is mrjohnson2.0
