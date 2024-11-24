@@ -1,5 +1,5 @@
 # 👾 Welcome to My Git
-Hi! I'm NotTacos, a man interested in reverese engineering and Compuer Science.
+Hi! I'm NotTacos, a man interested in reverese engineering and Computer Science.
 
 ## 🛠️ Skills & Technologies
 Here are some of the tools and technologies I work with:
