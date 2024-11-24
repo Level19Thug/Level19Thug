@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @Level19Thug
-- 👀 I’m interested in c++, UE4 and UE5
-- 🌱 I’m currently learning C++, JS, and C#
-- 📫 My Discord is mrjohnson2.0
+👾 Welcome to My Git
+Hi! I'm NotTacos, a man interested in reverese engineering and Compuer Science.
+
+🛠️ Skills & Technologies
+Here are some of the tools and technologies I work with:
+
+Languages: C, C++, Python, JavaScript, TypeScript
+Reverse Engineering: IDA Pro, x64dbg
+Other Tools: Git, Docker, Virtualization (VMWare, VirtualBox)
+
+🌐 Connect with Me
+📧 Email: [nottacsoff@gmail.com]
+💻 Discord: [cumware2.0_85251]
